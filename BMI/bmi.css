@@ -21,7 +21,7 @@ span{
     padding: 15px;
     background-color: #111;
     border-radius: 5px;
-    box-shadow: rgb(38, 57, 77) 0px ,20px, 30px, -10px;
+    box-shadow: rgb(8, 8, 8) 0px 20px 30px -10px;
 }
 input{
     outline: none;
